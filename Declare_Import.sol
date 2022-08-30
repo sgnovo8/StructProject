@@ -2,7 +2,7 @@
 // File that the struct is declared in:
 
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.10;
+pragma solidity ^0.8.9;
 
 struct Todo {
     string text;
